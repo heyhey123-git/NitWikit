@@ -1,5 +1,5 @@
 ---
-title: 第三方插件加载器选择
+title: 插件加载器选择
 sidebar_position: 2
 ---
 
