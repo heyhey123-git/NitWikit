@@ -43,7 +43,7 @@ import TabItem from '@theme/TabItem';
 </TabItem>
 </Tabs>
 
-## Addons 加载器
+## 官方提供的脚本加载器
 <Tabs queryString="plugins-loader">
 <TabItem value="bds-script-api" label="BDS Script API（官方）">
 | 插件加载器 | 别名：SAPI |
